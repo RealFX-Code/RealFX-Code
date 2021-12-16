@@ -1,16 +1,13 @@
-### Hi there 👋
+### yo
+
+I do coding sometimes, I mainly code in basic languages like C# and Shell Scripts.
+Don't expect alot, but you're welcome to look at my horrible code.
+
+[![RealFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealFx-Code)](https://github.com/anuraghazra/github-readme-stats)
+
+Add me on discord if you have any questions:
+> RealFX#2893
 
 <!--
-**RealFX-Code/RealFX-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  hey
 -->
