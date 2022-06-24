@@ -1,6 +1,6 @@
 ### Hello, I'm RealFX!
 
-I do coding sometimes, I mainly code in basic languages like C# and Shell Scripts.
+I do coding sometimes, I mainly code in basic languages like C# and html.
 
 
 Don't expect alot, but you're welcome to look at my horrible code.
