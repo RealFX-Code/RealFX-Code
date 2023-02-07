@@ -1,5 +1,5 @@
-# <a href="https://card.realfx.rocks/">rlfx</a>
-
+# I'm sometime!
+I'm a 14 year old web-dev and pupil!
 
 ## Want to contact me? 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qFdvxqsRg5)
