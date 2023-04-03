@@ -1,9 +1,8 @@
 # I'm sometime!
-I'm a 14 year old web-dev and pupil!
+I'm a 15 year old dumbo doing somewhat okay with web development and school !!
 
 ## Want to contact me? 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qFdvxqsRg5)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/realfx6) 
 
 # Stuff I use:
 
