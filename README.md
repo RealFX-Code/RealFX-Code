@@ -1,8 +1,32 @@
-# I'm sometime.
-[Look at my website instead](https://www.realfx.rocks)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ff4f386-5318-478a-87db-502ec64f09e9" />
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qFdvxqsRg5)
+<h2 align="center">🤍 Leah 🩷</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=RealFX-Code&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RealFX-Code&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hi! I'm Leah! A 17 year old internet girl doing whatever interest my little autistic brain.
+
+
+<h3>
+  What I know (From 1-10):
+</h3>
+<ul>
+  <li>
+    <strong>4/10</strong> C/C++
+  </li>
+  <li>
+    <strong>7/10</strong> C#
+  </li>
+  <li>
+    <strong>4/10</strong> Java
+  </li>
+  <li>
+    <strong>9/10</strong> JavaScript (+ HTML/CSS)
+  </li>
+  <li>
+    <strong>7/10</strong> C#
+  </li>
+  <li>
+    <strong>9.8/10</strong> Linux
+  </li>
+</ul>
