@@ -4,7 +4,7 @@
 
 <h2 align="center">🤍 Leah 🩷</h2>
 
-Hi! I'm Leah! A 17 year old internet girl doing whatever interest my little autistic brain.
+Hi! I'm Leah! A 17 year old internet thing doing whatever interest my little autistic brain.
 
 
 <h3>
